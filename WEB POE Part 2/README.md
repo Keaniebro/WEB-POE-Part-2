@@ -1,4 +1,4 @@
-# Harmony Hub - Web Development PEO Part 1 overview:
+# Harmony Hub - Web Development POE Part 2overview:
 Welcome to the project repository for "Harmony Hub", an online-exclusive musical instrument store deserve store designed and built from scratch as part of my web development portfolio coursework. 
 
 ## Project Overview
